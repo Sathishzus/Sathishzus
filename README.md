@@ -6,7 +6,7 @@ Im <b> Sathishzus</b>
 - 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone. *But now I'm busy*
 - 🤔 *I’m looking for help with* ... I D K
 - 💬 *Ask me about* ... Software Devloper,Engineer,Obstimcts,
-- 📫 *How to reach me*: ... [sathish](t.me/sathish2004) *Now I'm log outed my account* <mono> if you've Any requests ib me I will give reply ASAP </mono>
+- 📫 *How to reach me*: ... [sathish](t.me/sathish2004) 
 - 😄 *Pronouns*: ... 🎭🔥
 - ⚡ *Fun fact*: ... I don't know anything
 - 🌀 *what I know*: ... Python , Java Script , C++
