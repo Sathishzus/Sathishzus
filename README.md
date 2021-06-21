@@ -1,4 +1,4 @@
-### Hola there 👋
+### Hola there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 Im <b> Sathishzus</b>
 
 - 🏡 *I’m currently live* ... Puducherry
