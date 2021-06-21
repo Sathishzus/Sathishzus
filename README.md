@@ -33,12 +33,3 @@ Im <b> Sathishzus</b>
 ## 🕒 **Wakatime Stats**
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=pokurt&theme=radical)](https://github.com/Sathishzus/github-readme-stats)
 
-# GITHUB STATUS.
-- ![Profile views](https://gpvc.arturio.dev/Sathishzus)
-- [![GitHub followers](https://img.shields.io/github/followers/Sathishzus.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sathishzus?tab=followers)
-
-<p>
-  <a href="https://github.com/Sathishzus/handle-path-oz">
-    <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Sathishzus&show_icons=true&hide_border=true" />
-  </a>
-</p>
