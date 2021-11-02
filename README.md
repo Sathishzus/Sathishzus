@@ -2,7 +2,7 @@
 Im <b> Sathishzus</b>
 
 - 🏡 *I’m currently live* ... Puducherry
-- 🌱 *I’m currently learning* ... Phyton 🐍,C++,Java Script,
+- 🌱 *I’m currently learning* ... Python 🐍,C++,Java Script,
 - 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone. *But now I'm busy*
 - 🤔 *I’m looking for help with* ... I D K
 - 💬 *Ask me about* ... Software Devloper,Engineer,Obstimcts,
