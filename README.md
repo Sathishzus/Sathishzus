@@ -1,16 +1,8 @@
 ### Hola there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 Im <b> Sathishzus</b>
 
-- 🏡 *I’m currently live* ... Puducherry
-- 🌱 *I’m currently learning* ... Phyton 🐍,C++,Java Script,
-- 👯 *I’m looking to collaborate on* ...All the project's i got the invitation by someone. *But now I'm busy*
-- 🤔 *I’m looking for help with* ... I D K
-- 💬 *Ask me about* ... Software Devloper,Engineer,Obstimcts,
-- 📫 *How to reach me*: ... [sathish](https://t.me/sathishzus) 
-- 😄 *Pronouns*: ... 🎭🔥
-- ⚡ *Fun fact*: ... I don't know anything
-- 🌀 *what I know*: ... Python , Java Script , C++
-- 🎁 *I Love To Spend My Time In*: ...
+- My Personal Website: [Sathishzus](https://sathishzus.vercel.app/)
+- My Company Website: [Zeus Bots Network](https://zeusweb.vercel.app/)
 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="30px" /> <img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/heroku.svg" width="30px" /> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/xbox.svg" width="30px"/>
 
